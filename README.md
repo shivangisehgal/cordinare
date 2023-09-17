@@ -2,6 +2,14 @@
 
 **Cordinare**: *Your College Ordinare*, is a mobile application designed to assist college students in staying organized and productive. It offers various features, including note-taking, timetabling, and to-do lists, all within a user-friendly interface.
 
+## Table of Contents
+
+1. [Cordinare](#cordinare)
+2. [Preview](#preview)
+    - [Features](#features)
+3. [Objectives](#objectives)    
+4. [Technologies](#technologies)
+
 ## Preview
 
 
